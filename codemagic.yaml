@@ -1,5 +1,0 @@
-workflows:
-  hello-world:
-    name: Hello World workflow
-    scripts:
-      - echo "Hello Magic World!"
